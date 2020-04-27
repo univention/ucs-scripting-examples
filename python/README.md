@@ -8,4 +8,4 @@ Please note that these examples are presented here as an inspiration only, witho
 
 * [Parallelized UDM user import from remote LDAP server or LDIF file](udm-import)
 
-If you encounter a problem or wish to contribute, please create an issue in Github: https://github.com/univention/ucs-scripting-examples/issues
+If you wish to contribute, please create an issue in Github: https://github.com/univention/ucs-scripting-examples/issues
