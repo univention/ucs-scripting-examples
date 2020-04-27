@@ -6,5 +6,4 @@ Example code for importing user objects from a remote LDAP server or LDIF file i
 
 * Adjust the main() function of the example code to your LDAP server (or LDIF file path).
 
-# Problems
 If you encounter a problem or wish to contribute, please create an issue in Github: https://github.com/univention/ucs-scripting-examples/issues

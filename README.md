@@ -6,5 +6,4 @@ Please note that these examples are presented here as an inspiration only, witho
 
 * [Python code snippets](python)
 
-# Problems
 If you encounter a problem or wish to contribute, please create an issue in Github: https://github.com/univention/ucs-scripting-examples/issues
